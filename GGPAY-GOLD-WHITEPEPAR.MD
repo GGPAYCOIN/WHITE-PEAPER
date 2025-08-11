@@ -56,10 +56,15 @@ Compliance: AML/KYC for gold redemption.
 
 10. Roadmap
 Q3 2026 – Token launch on GG CHAIN, 1,000,000 gm initial reserve.
+
 Q4 2026 – Listings on top CEXs and DEXs.
+
 Q1 2027 – Global redemption service for physical gold.
+
 Q2 2027 – Launch of GGPAY GOLD Card for instant gold-to-fiat payments.
+
 Q3 2027 – Partnerships with jewelers and merchants.
+
 Q4 2027 – DeFi integration for lending, staking, and borrowing.
 
 11. Conclusion
