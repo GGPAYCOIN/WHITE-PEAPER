@@ -122,7 +122,7 @@ This whitepaper is intended for informational purposes only and does not constit
 ## 🔗 Official Links
 - Website: [www.ggpayfinance.com]
 - GitHub: [Coming Soon]
-- Explorer: [Coming Soon]
+- Explorer: [www.ggtaps.world]
 - Wallet: [Coming Soon]
 - Twitter: [@GGPAYCOIN]
 
