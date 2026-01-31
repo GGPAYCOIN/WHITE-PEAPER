@@ -1,0 +1,34 @@
+GGPAY COIN – Staking Reward Distribution (Whitepaper Section)
+Overview
+The GGPAY Coin staking model is designed to reward long-term holders through a transparent,
+sustainable, and automated reward distribution mechanism powered by GG CHAIN smart
+contracts. Rewards depend on staking duration and the percentage of rewards already withdrawn
+(self-staking + team/referral income combined).
+Base Example
+Stake Amount: 100 GGPAY Coins
+Maximum combined return cap considered: 20%, 50%, 80%
+Rewards calculated monthly and distributed daily.
+Reward Tier – After 20% Total Reward Achieved
+1 Year Staking: 2% per month (0.06 GGPAY per day)
+2 Year Staking: 3% per month
+3 Year Staking: 6% per month
+Reward Tier – After 50% Total Reward Withdrawn
+1 Year Staking: 1.5% per month
+2 Year Staking: 2% per month
+3 Year Staking: 4% per month
+Reward Tier – After 80% Total Reward Withdrawn
+1 Year Staking: 1% per month
+2 Year Staking: 1.5% per month
+3 Year Staking: 3% per month
+Reward Calculation Formula
+Daily Reward = (Staked Amount × Monthly Reward %) ÷ 30
+Smart Contract Rules
+• Staked principal remains locked for the selected duration
+• Reward rate auto-adjusts based on withdrawal percentage
+• Rewards are non-compounding by default
+• All calculations are transparent and on-chain
+Governance
+DAO governance may adjust reward rates, caps, and referral contribution ratios through on-chain
+voting mechanisms.
+This staking system ensures fairness, long-term sustainability, and strong incentives for genuine
+GGPAY Coin holders.
